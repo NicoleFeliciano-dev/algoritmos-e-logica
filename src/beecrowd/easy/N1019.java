@@ -2,6 +2,9 @@ package beecrowd.easy;
 
 import java.util.Scanner;
 
+//Problems ID: #1019 - Conversão de Tempo
+//https://judge.beecrowd.com/pt/problems/view/1019
+
 public class N1019 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

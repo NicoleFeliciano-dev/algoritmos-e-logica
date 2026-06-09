@@ -2,6 +2,9 @@ package beecrowd.easy;
 
 import java.util.Scanner;
 
+//Problems ID: #1047 - Tempo de Jogo com Minutos
+//https://judge.beecrowd.com/pt/problems/view/1047
+
 public class N1047 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

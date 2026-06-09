@@ -2,7 +2,10 @@ package beecrowd.easy;
 
 import java.util.Scanner;
 
-public class N1041 {
+//Problems ID: #1050 - DDD
+//https://judge.beecrowd.com/pt/problems/view/1050
+
+public class N1050 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int ddd = input.nextInt();
