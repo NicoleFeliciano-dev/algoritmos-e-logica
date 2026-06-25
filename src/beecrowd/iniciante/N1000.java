@@ -1,4 +1,4 @@
-package beecrowd.easy;
+package beecrowd.iniciante;
 //Problems ID: #1000 - Hello World!
 //https://judge.beecrowd.com/pt/problems/view/1000
 

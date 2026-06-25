@@ -1,4 +1,4 @@
-package beecrowd.easy;
+package beecrowd.iniciante;
 
 import java.util.Scanner;
 
@@ -14,7 +14,7 @@ public class N1047 {
         int minutoFinal = input.nextInt();
 
 
-        int minutosTotais = 0;
+        int minutosTotais;
         if (minutoFinal < minutoInicial) {
             minutosTotais = 60 - minutoInicial + minutoFinal;
         }else{

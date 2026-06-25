@@ -1,4 +1,4 @@
-package beecrowd.easy;
+package beecrowd.iniciante;
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -13,7 +13,7 @@ public class N1011 {
         Scanner input = new Scanner(System.in);
         double raio = input.nextFloat();
 
-        double volume = (double) (4 * PI * Math.pow(raio,3))/3;
+        double volume = (4 * PI * Math.pow(raio,3))/3;
         System.out.printf("VOLUME = %.3f%n", volume);
     }
 }

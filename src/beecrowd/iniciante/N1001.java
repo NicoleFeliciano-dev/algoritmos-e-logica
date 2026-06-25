@@ -1,4 +1,4 @@
-package beecrowd.easy;
+package beecrowd.iniciante;
 import java.io.IOException;
 import java.util.Scanner;
 
