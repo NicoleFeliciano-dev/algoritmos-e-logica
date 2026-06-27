@@ -3,7 +3,7 @@ package mfp.f1_2024;
 import java.util.Scanner;
 
 public class ProblemaC {
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int numero = input.nextInt();
         int tamanho = (int) Math.pow(2,numero) - 1;
@@ -65,9 +65,5 @@ public class ProblemaC {
         }
 
         System.out.println(valorAntigo);
-        for (int i = 0; i < 10; i++) {
-            System.out.println("Passo " + i);
-            Thread.sleep(500);
-        }
     }
 }
